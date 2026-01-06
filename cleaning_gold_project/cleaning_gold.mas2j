@@ -1,0 +1,9 @@
+MAS cleaning_gold {
+    infrastructure: Centralised
+    environment: GoldMarsEnv
+    
+    agents:
+        r1;
+        r2;
+        gold_deposit;
+}
